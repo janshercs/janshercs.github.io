@@ -193,9 +193,8 @@ br{
 }
 
 .profile-picture img{
-	width: auto;
-	height: 100%;
-	margin-left: -60px;
+	width: 100%;
+	height:auto;
 }
 
 .horizontal-center{
