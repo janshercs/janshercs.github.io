@@ -214,6 +214,13 @@ br{
 	float:right;
 }
 
+@media screen and (max-width: 480px) {
+  .nav-container {
+    visibility: hidden;
+    display: none;
+  }
+}
+
 .vertical-nav{
 	width: 130px;
 	display: -ms-flexbox;
