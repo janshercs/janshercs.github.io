@@ -215,9 +215,10 @@ br{
 }
 
 @media screen and (max-width: 480px) {
-  .nav-container {
+  #navbar {
     visibility: hidden;
     display: none;
+    clear: both;
   }
 }
 
